@@ -8,6 +8,6 @@ That why fill this table to choose the one:
 |1|Viber|
 |2|Discord|
 |3|Skype|
-|4|Telegram|+
+|4|Telegram|++
 |5|FB Messenger|
 
