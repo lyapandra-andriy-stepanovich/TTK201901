@@ -12,6 +12,3 @@ $ git push -u origin master
 ```
 
 You *can* **see** [this page](https://lyapandra-andriy-stepanovich.github.io/TTK201901/)
-# Java group TTK201901
-## Tasks:
-1. choose [messenger](Messenger.md)
