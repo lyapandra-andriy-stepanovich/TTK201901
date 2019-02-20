@@ -1,7 +1,7 @@
 ![img](screenshot.png)
 # Java+JS group TTK201901
 ##Tasks:
-1. choose messenger [messenger](Messenger.md)
+1. choose [messenger](Messenger.md)
 1. write [CV](CV/CV.md)
 
 #######To commit you should type:
@@ -12,3 +12,6 @@ $ git push -u origin master
 ```
 
 You *can* **see** [this page](https://lyapandra-andriy-stepanovich.github.io/TTK201901/)
+# Java group TTK201901
+## Tasks:
+1. choose [messenger](Messenger.md)
