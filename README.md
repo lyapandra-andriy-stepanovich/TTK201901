@@ -3,6 +3,7 @@
 ## Tasks:   
 1. choose [messenger](Messenger.md)
 1. write [CV](CV/CV.md)
+1. install Java 8, Maven, IDE [(link)](links/links.md)
 
 ###### To commit you should type:    
 ```
