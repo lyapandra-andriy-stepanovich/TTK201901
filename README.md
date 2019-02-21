@@ -1,10 +1,10 @@
 ![img](screenshot.png)
 # Java+JS group TTK201901
-##Tasks:
+## Tasks:   
 1. choose [messenger](Messenger.md)
 1. write [CV](CV/CV.md)
 
-#######To commit you should type:
+###### To commit you should type:    
 ```
 $ git add --all
 $ git commit -m "Explain your commit"
